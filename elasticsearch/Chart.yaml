@@ -1,0 +1,10 @@
+name: elasticsearch
+home: https://www.elastic.co/products/elasticsearch
+version: 0.1.5
+description: Elasticsearch chart for Kubernetes
+sources:
+  - https://www.elastic.co/products/elasticsearch
+  - https://github.com/dmfenton/elasticsearch-pet
+maintainers:
+  - name: Daniel Fenton
+    email: dfenton@esri.com
